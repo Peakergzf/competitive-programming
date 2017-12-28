@@ -1,4 +1,4 @@
-#### (Over complicated solution for codeforces problem 486A)
+#### (Over complicated solution for codeforces problem 486A...)
 
 Given a function f(n) = - 1 + 2 - 3 + ... +(-1)<sup>n</sup>n, we are asked to calculate f(n) for a given positive integer n.
 
