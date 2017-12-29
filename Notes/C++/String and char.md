@@ -9,6 +9,10 @@ Difference between the two: [here](https://stackoverflow.com/a/905487)
 ```c++
 string s = to_string(10);
 ```
+### string to int
+```c++
+int i = stoi(s);
+```
 
 ### check if the string contains certain substring
 ```c++
@@ -33,7 +37,7 @@ More detail: [here](https://stackoverflow.com/a/9438329)
 
 ### substring
 ```c++
-string s2 = s1.substr(0, 10);
+string s2 = s1.substr(posOfFirstChar, numOfCharToInclude);
 ```
 More on substring and find: [here](http://www.cplusplus.com/reference/string/string/substr/)
 
